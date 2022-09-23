@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+#img{
+    display: flex;  
+   justify-content: center;
+   height: 200px;
+}
+table, td, th{
+    border: 3px solid;
+}
+#table{
+    display: flex;
+    justify-content: center;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: pink;
+}
+#kip{
+    height: 200px;
+}
